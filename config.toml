@@ -1,0 +1,32 @@
+theme = "centerfold"
+baseURL = "localhost:1313/"
+languageCode = "en-us"
+title = "The Oberlin Grape"
+MetaDataFormat = "toml"
+googleAnalytics = ""
+
+[params]
+  backgroundColor = "f7f7f7"
+  showBorder = false
+  font = "Montserrat"
+  copyright = "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io). The Oberlin Grape. 2017"
+
+[[menu.main]]
+  url = "/bad-habits/"
+  name = "Bad Habits"
+  weight = 1
+
+[[menu.main]]
+  url = "/features/"
+  name = "Features"
+  weight = 2
+
+[[menu.main]]
+  url = "/commentary/"
+  name = "Commentary"
+  weight = 3
+
+[[menu.main]]
+  url = "/arts-culture/"
+  name = "Arts&Culture"
+  weight = 4
