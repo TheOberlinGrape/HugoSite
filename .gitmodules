@@ -2,5 +2,5 @@
   path = themes/Centerfold
   url = https://github.com/TheOberlinGrape/Centerfold
 [submodule "public"]
-  path = public
-  url = https://github.com/TheOberlinGrape/theoberlingrape.github.io.git
+	path = public
+	url = https://github.com/TheOberlinGrape/theoberlingrape.github.io.git
