@@ -1,0 +1,160 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 55px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+main {
+    margin: auto;
+    padding: 25px;
+    flex: 1 0 auto;
+    max-width: 750px;
+}
+
+/*footer*/
+
+.copyright {
+    margin: 15px 0;
+}
+
+/*home page*/
+
+.intro {
+    margin: 25vh 0;
+}
+
+.intro > h1 {
+    color: #212121;
+    font-size: 12vh;
+}
+
+.intro > h2 {
+    color: #757575;
+    font-size: 3vmin;
+}
+
+/*apply accent colour to links*/
+
+a:link, a:visited {
+    color: var(--accent);
+}
+
+a.icon:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent) !important;
+}
+
+/*paginator at bottom of list view*/
+
+.pages {
+    padding: 15px 0;
+}
+
+.pages-icon {
+    padding: 0 15px;
+}
+
+/*list item for posts and projects*/
+
+.item {
+    padding: 10px 0;
+}
+
+.item-tag {
+    background-color: var(--accent);
+}
+
+/*navigation bar icons*/
+
+.navbar-icon {
+    font-size: 125%;
+    display: inline-block !important;
+}
+
+/*coloured borders at top and bottom of the page*/
+
+.navbar.navbar-default {
+  border-top: var(--border-width) solid var(--accent);
+  height: 100px;
+  background-color: #EAD3EA;
+  border-color: #EAD3EA;
+}
+
+.nav.navbar-nav.navbar-right li a {
+  color: black;
+}
+
+.navbar-header {
+  margin-left: 1% !important;
+  margin-bottom: 1% !important;
+}
+
+.navbar-brand {
+    max-width: 50%;
+    left: 0;
+    top: 0;
+    text-align: center;
+}
+
+footer {
+    border-bottom: var(--border-width) solid var(--accent);
+}
+
+u {
+  text-decoration: none;
+  border-bottom: 3px solid black;
+}
+
+a.MenuItems {
+  position: absolute;
+  top: 25px;
+  font-size: 12.5pt;
+}
+
+img.logo {
+  position: absolute;
+  left: 10px;
+  top: 2px;
+  max-width: 50%;
+}
+
+img.pixel-footer {
+  position: relative;
+  top: 40px;
+}
+
+input[type=text] {
+  position: relative;
+  width: 150px;
+  height: 35px;
+  font-size: 10pt;
+  padding: 12px 20px;
+  margin: 10px 0;
+  box-sizing: border-box;
+  color: black;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 250px;
+    width: 100%;
+    background-color: #EAD3EA;
+    border-color: #EAD3EA;
+    color: #EAD3EA;
+    text-align: center;
+}
+
+p.copyright {
+  position: relative;
+  top: 205px;
+}
