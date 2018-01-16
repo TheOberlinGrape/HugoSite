@@ -1,4 +1,4 @@
-publishDir = "./public"
+publishDir = "./dist"
 theme = "centerfold"
 baseURL = "."
 languageCode = "en-us"
