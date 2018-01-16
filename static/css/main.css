@@ -88,10 +88,6 @@ a:hover {
   border-color: #EAD3EA;
 }
 
-.nav.navbar-nav.navbar-right li a {
-  color: black;
-}
-
 .navbar-header {
   margin-left: 1% !important;
   margin-bottom: 1% !important;
@@ -139,7 +135,6 @@ input[type=text] {
   padding: 12px 20px;
   margin: 10px 0;
   box-sizing: border-box;
-  color: black;
 }
 
 footer {
@@ -158,3 +153,4 @@ p.copyright {
   position: relative;
   top: 205px;
 }
+
