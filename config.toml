@@ -1,6 +1,6 @@
 publishDir = "dist"
 theme = "centerfold"
-baseURL = "/"
+baseURL = "https://www.theoberlingrape.com/"
 languageCode = "en-us"
 title = "The Oberlin Grape"
 MetaDataFormat = "toml"
