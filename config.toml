@@ -13,21 +13,21 @@ googleAnalytics = ""
   copyright = "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io). The Oberlin Grape. 2017"
 
 [[menu.main]]
-  url = "/bad-habits/"
+  url = "/post/bad-habits/"
   name = "Bad Habits"
   weight = 1
 
 [[menu.main]]
-  url = "/features/"
+  url = "/post/features/"
   name = "Features"
   weight = 2
 
 [[menu.main]]
-  url = "/commentary/"
+  url = "/post/commentary/"
   name = "Commentary"
   weight = 3
 
 [[menu.main]]
-  url = "/arts-culture/"
+  url = "/post/arts-culture/"
   name = "Arts&Culture"
   weight = 4
