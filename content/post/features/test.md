@@ -4,7 +4,8 @@ date: 2018-01-27T12:47:30-05:00
 formattedDate: "Jan 27, 2018"
 time: 12:47
 tags: []
-section:
+section: "Bad Habits"
+sectionid: "bad-habits"
 header: "Article 2: Too Many Articles?"
 subheader: "The subheader, highlighting some tagline of the article"
 header_image: "test-photo.png"

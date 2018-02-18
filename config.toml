@@ -15,19 +15,23 @@ googleAnalytics = ""
 [[menu.main]]
   url = "/post/bad-habits/"
   name = "Bad Habits"
+  pre = "ffe9ff"
   weight = 1
-
+  
 [[menu.main]]
   url = "/post/features/"
   name = "Features"
+  pre = "f2f623"
   weight = 2
 
 [[menu.main]]
   url = "/post/commentary/"
-  name = "Commentary"
-  weight = 3
+  name = "Commentary"  
+  pre = "6024a5"
+  weight = 3  
 
 [[menu.main]]
   url = "/post/arts-culture/"
   name = "Arts&Culture"
+  pre = "d30016"
   weight = 4
