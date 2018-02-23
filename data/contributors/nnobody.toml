@@ -3,8 +3,11 @@
 # Name of the author
 name = "Nemo Nobody"
 
-# Twitter
-social = "nemonobody"
+# Email
+social = "nnobody@theoberlingrape.com"
+
+# id
+id = "nnobody"
 
 # Picture name
 picture = "nnobody.png"

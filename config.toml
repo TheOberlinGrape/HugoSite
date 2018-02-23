@@ -25,13 +25,13 @@ googleAnalytics = ""
   weight = 2
 
 [[menu.main]]
-  url = "/post/commentary/"
-  name = "Commentary"  
+  url = "/post/opinions/"
+  name = "Opinions"  
   pre = "6024a5"
   weight = 3  
 
 [[menu.main]]
   url = "/post/arts-culture/"
   name = "Arts&Culture"
-  pre = "d30016"
+ pre = "d30016"
   weight = 4

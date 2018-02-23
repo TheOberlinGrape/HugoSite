@@ -1,8 +1,8 @@
 ---
-title: "Test"
-date: 2018-02-23T16:29:43-05:00
+title: "Cause Applause 2018 02"
+date: 2018-02-23T16:51:33-05:00
 formattedDate: "Feb 23, 2018"
-time: 4:29pm
+time: 4:51pm
 tags: []
 issueid: 2018-02
 draft: true
