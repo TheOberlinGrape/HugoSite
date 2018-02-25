@@ -11,6 +11,8 @@ googleAnalytics = ""
   showBorder = false
   font = "Montserrat"
   copyright = "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io). The Oberlin Grape. 2017"
+  favicon = "pixel-logo.png"
+  submissionBoxMessage = "Become a contributor! Enter your email below and we'll reach out to talk about your story idea. Don't have one? You can take one of ours."
 
 [[menu.main]]
   url = "/post/bad-habits/"
