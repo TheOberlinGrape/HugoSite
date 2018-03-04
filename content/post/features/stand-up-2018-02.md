@@ -42,13 +42,18 @@ Our Congressman, Rep. Jim Jordan (Republican), is a hardline 2nd amendment suppo
 **Script:** Hello, my name is (your name) and I am a constituent from Oberlin, Ohio, zip code 44074. In the wake of the most recent mass shooting in Florida, I urge Rep. Jim Jordan to vote in favor of legislation that would strengthen the National Instant Criminal Background Check System, such as the bill recently proposed by Sen. John Cornyn. There are not enough precautions taken to prevent gun violence in this country, and bipartisan gun control measures must be enacted. Thank you for your time answering the phones.
 
 Rob Portman’s DC Office: (202) - 224 - 3353
+
 Rob Portman’s Cincinnati Office - (513) - 684 - 3265
+
 Rob Portman’s Cleveland Office - (216) - 522 - 7095
 Rob Portman’s Columbus Office - (614) - 469 - 6774
+
 Rob Portman’s Toledo Office - (419) - 259 - 3895
 
 Jim Jordan’s DC Office - (202) - 225 - 2676
+
 Jim Jordan’s Lima Office - (419) - 999 - 6455
+
 Jim Jordan’s Norwalk Office - (419) - 663 - 1426
 
 Indivisible is a national movement dedicated to holding our elected officials accountable. Indivisible believes that by utilizing our power as constituents, we can push our elected officials to stand up to the Trump administration's authoritarian agenda. Find out more about Indivisible by going to https://www.indivisible.org/guide/summary/
