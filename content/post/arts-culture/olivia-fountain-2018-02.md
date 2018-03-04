@@ -8,7 +8,7 @@ issueid: 2018-02
 draft: false
 featured: true
 # weight: 1 
-section: "Arts and Culture"
+section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "Exploring Fragility"
 subheader: "with Olivia Fountain"
