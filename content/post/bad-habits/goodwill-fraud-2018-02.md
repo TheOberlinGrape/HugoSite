@@ -21,15 +21,15 @@ As we all know, Oberlin students have an ethically-dubious love for thriting, be
 
 It all started with an innocent trip about 3 months ago, where a couple of friends and I stopped by the Goodwill to see if we could spend a friend’s gift card. I had never actually been to this Goodwill, and was surprised to see that the sign on the front of the store did not have a Goodwill logo. It simply had an array of large blue letters, blue letters I later realized could have been purchased from any large signage manufacturer in the country. I remember walking into the Goodwill, and this is when I became truly skeptical -- there was hardly any mention of the Goodwill brand or logo anywhere in the store. In New York City, where I am from, these Goodwills have many examples of their brand across the store -- from promotional posters on the walls to logos on the tags. I thought it was weird, but I didn’t make much of it while I was perusing the store. But during our checkout, things got really interesting. My friend with the gift card attempted to check out of the Goodwill. The employee looked him dead in the eyes and told him that the Goodwill did not take Goodwill gift cards.
 
-I was as confused as you are.
+I was as confused as you are. 
 
-What’s a Goodwill?
+*What’s a Goodwill?*
 
-What’s a gift card?
+*What’s a gift card?*
 
-Why would a Goodwill not accept a Goodwill gift card?
+*Why would a Goodwill not accept a Goodwill gift card?*
 
-What is really going on here? 
+*What is really going on here?* 
 
 Fourth-year Sally Slade had this to say: “I have thought that Goodwill is a money-laundering operation for as long as I can remember.”
 
