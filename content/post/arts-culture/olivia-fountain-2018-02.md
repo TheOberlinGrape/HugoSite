@@ -5,15 +5,68 @@ formattedDate: "Feb 23, 2018"
 time: 4:53pm
 tags: []
 issueid: 2018-02
-draft: true
-featured: false
+draft: false
+featured: true
 # weight: 1 
-section: "Bad Habits"
-sectionid: "bad-habits"
-header: "Article 2: Too Many Articles?"
-subheader: "The subheader, highlighting some tagline of the article"
-header_image: "test-image.png"
-img_info: "This is a test description for the header info."
-contributor: nnobody
+section: "Arts and Culture"
+sectionid: "arts-culture"
+header: "Exploring Fragility"
+subheader: "with Olivia Fountain"
+header_image: "Olivia Fountain.jpeg"
+img_info: "Olivia Fountain in the Allen, courtesy of the Oberlin College Instagram page."
+contributor: Nell Beck
 ---
+After graduating last spring, Olivia Fountain (’17) has returned to Oberlin as the curatorial assistant in the Allen Museum’s Office of Academic Programs. “Handle With Care: Embracing Fragility” is a new exhibition in the Education Hallway that Fountain curated herself. 
+There are five contemporary pieces in the show, including Chuck Close’s Andres (Serrano), a photograph of Andres Serrano, the conceptual artist of Afro-Cuban and Honduran descent, Toni Catany’s Natura Morta, a composite photograph of a family portrait that obscures all of the male members, Racquelin Mendieta’s KalyAni, a collage focusing on a central silhouette, Marsha Brown’s Untitled (Male Nude), a photograph in which a gender-ambiguous youth poses behind a pane of glass, and Liliana Porter’s Brancusi, a photograph of a postcard of Constantin Brancusi’s Sculpture for the Blind with a glass bird. All explore concepts of fragility and its relationship to gender and race.
+While fragility is often used to describe a delicate vase or piece of china, “Handle with Care” shows that the term extends beyond that. The viewer is invited to think of it in relation to identity and materiality, and the intersection of the two. Recently, I got to talk with Olivia about the show and her experience curating it. 
+
+The Grape: How do you define “fragility”?
+
+Olivia Fountain: I define fragility, in the show and also in my life, as being vulnerable, breakable or delicate. Those things all have their own specific meanings, but I think vulnerable is the closest cognate.
+
+TG: Why did you choose that theme for the exhibit? Why is it relevant today? 
+
+OF: I basically knew that I was going to be curating an exhibition at the Allen ever since I got this job, so from the very beginning I had my eye out for things that interested me. I ran through a few different ideas before realizing that it was very important to me to work with modern and contemporary artists. It refined my search to modern and contemporary works we have, and I came across a sculpture by the artist Louise Bourgeois called Fragile Goddess. The sculpture isn’t in the show but it was the impetus for it. It’s this bronze - bust is maybe the wrong word - it’s a bronze torso, it doesn’t have legs, it doesn’t have hands, it has stumpy arms and it doesn’t have a head so it’s just this body. It’s sort of like this semantic confusion between the form itself being fragile - it’s this bronze, heavy, ten-inch sculpture that probably isn’t materially fragile - so then what is? The language and the title really got me thinking about the different meanings of fragility in material fragility versus this other thing. 
+
+TG: Out of all the five pieces, do you think there’s one specifically that exemplifies fragility the best?
+
+OF: Not really. Something that was difficult for me to sort through as I was working through the conceptual work behind the show is that there are so many different ways to be fragile and so many different people writing and thinking about fragility. It’s deployed in a lot of different ways, it can be an insult, it can be used to describe a very specific identity. I think they all get into fragility in different, funky ways, and as a result it’s really hard to choose the one that encapsulates it the best. And it’s been funny because during publicity for this show the museum has been like “You need to choose one picture to be the thumbnail with this write-up” or for something that’s going to be on the Instagram post and I’m always like “But I want to do them all! They’re all so different!”
+
+TG: What did you learn about while creating this exhibit? Was there anything that really surprised you? 
+
+OF: Yeah, definitely. I think the most surprising thing was how hard it is to curate a show. I spend a lot of time in museums, I work in museums, I go to them for fun, I see a lot of exhibitions, and it’s easy not to think about the hand of the curator. One of my favorite artists is a man called Fred Wilson who actually did a show at the Allen last year. He does a lot of curatorial work, and his art is the way in which he curates art that he didn’t make, so the final work will be a room and the set-up. He does pieces that call attention to the act of curation and how that’s not neutral, and how museums aren’t blankly putting up paintings on a wall, that there’s a lot going on. So I definitely thought a lot about that and I think it’s really interesting, but then when I was tasked with putting my own idea out there it was really hard! There are especially very hard logistical constraints - space constraints, you know, there are five pieces on the wall, there’s one wall. 
+
+There are also a lot of really interesting nitty-gritty logistics. You can’t display a work a bunch of times over a short period of time because of light exposure, so there were some pieces that I really wanted that were slated for a show that’s coming up next semester that I just couldn’t use. It’s so hard to come up with a coherent idea that you’re trying to communicate through visual art that is made by people who are not you. That idea then has to be reflected by the collection but it also has to be reflected by the portion of the collection that hasn’t already been spoken for by other curators. And you plan years and years out, and there were a few pieces that I really wanted but they were like ‘No we’re going to use this three years from now.’ So that was really, really eye-opening.
+
+TG: That seems very restricting.
+
+OF: It is and it isn’t. It is restricting for sure but it also really forces you to think outside the box. The Allen has a huge collection, and I think with museums in general, something like 95% of their stuff is in storage at any given time. And so since there are so many things in our collection it really forced me to be creative and think about how a problem I was trying to solve in a bunch of different ways, even when the most obvious ones were not available to me.
+
+TG: What did you study when you were at Oberlin?
+
+OF: I was a Classics major at Oberlin. I studied Classic civilizations, and I was an Art History minor. 
+
+TG: How has Oberlin shaped your exhibit, and also your view of art as a whole?
+
+OF: I think that my classics background was really helpful in parsing through the art, like that sculpture I was telling you about earlier, “Fragile Goddess,” which I think is pretty directly referencing Greek and Roman sculpture. My classic sensibilities set alarm bells off when I first saw that, and that became the impetus for my whole show. 
+
+Also more generally, I was really lucky to take classes with some incredible art historians. Oberlin has an incredible art history department; I recommend taking classes in it. I had a professor, Sarah Hamill, who was really influential in my art historical development and my interests. The classes I took with her set me on this line of questioning into contemporary art. She was the person who first introduced me to the work of Fred Wilson, and then Fred Wilson did the show here at the Allen last year, which was really, really influential to me. It’s one of the most incredible things I’ve ever seen. There were two shows that he did. The one that I liked better was one called “Wildfire Test Pit.” He took over the big sculpture room that you see when you walk in and painted the space, and then curated a show based on holdings in the Allen’s collection. He curated the show about Edmonia Lewis, who was a woman of African American and Native American descent who went to Oberlin in the late 1800s and never graduated. She was in one of the first classes of women and also was in one of the first classes of black people to go to the college. She ultimately did not graduate because she was accused of poisoning white classmates. She was acquitted of that accusation but before a trial took place she was beaten really terribly and was like “fuck this I’m leaving Oberlin.” So she left and went to college somewhere else, but then moved to Rome and had this very successful career as a neoclassical sculptor. So Fred Wilson’s show was sort of about the memory of Edmonia Lewis and about the way that she is remembered at Oberlin, but also more generally about the way that we talk about art history. He took out a bunch of plaster casts of classical sculptures and displayed them in the sculpture garden, because when the Allen was first started it was a way to display these pedagogical casts of classical sculptures that students would draw and study anatomy about. So he had a bunch of those out, which were chipped and made of plaster and obviously not real, and juxtaposed them with a bunch of African works in our collection. It was asking these questions about the way that we are asked to view classical sculptures from Greek and Roman antiquity versus how we’re asked to view African works in museum spaces, and just thinking about memory and legacy, and it was so good, so interesting. 
+
+At the time, I was taking an intro to Greek history class my fall semester, and I mentioned the show to my professor, and she was like, ‘Well if you want, we have a day when we’re going to talk about Greek sculpture, but you can just have it; you can organize the class visit to the Allen.’ So she just handed me the reins in this unprecedented display of trust, and I did it. I thought a lot about teaching with that show, and I think that was a big reason why I applied for this job at the Allen. 
+
+But to go back to your earlier question about whether I think [the exhibition] is relevant to issues today - yes, definitely. I talk a lot about two concepts, which are white fragility and fragile masculinity. They involve thinking about how this lens of fragility is a negative thing that has been turned onto historic oppressors - white people and men. 
+
+I also thought about histories of women, especially white women, being seen as too fragile, and overly-delicate and vulnerable, and also the parallel history of black people being seen as not fragile enough. I thought a lot about fairly recent instances of police brutality, such as Trayvon Martin and Tamir Rice, who was twelve when he was killed, and Trayvon Martin was seventeen. There’s this practice of black children being killed and being associated as criminal, without taking into account the fact that they’re children. So those have been very salient. 
+
+One last thing that’s been a hurdle that I’ve been thinking a lot about is that one of the artists in the show is Chuck Close, who’s a very famous, prominent artist who was accused of sexual harassment by a bunch of women at the end of December, after the show had been finalized. And then later, in the middle of January, four more women came forward. So I’ve been thinking a lot about how to deal with that or what to do with that because, first and foremost: fuck Chuck Close, that’s horrible, that is not acceptable. I thought a lot about what to do about the piece and if I should leave it in the show, and I ultimately did, which is a decision I feel good about. 
+
+I’m still working through it but I think that it’s really important to have these conversations about the role that museums play, the active or inactive role that museums play in conversations about art. I think it’s really easy for museums to talk about separating the art from the artist, which involves showing art by known abusers without really commenting on that. I think that it’s really important to have those conversations and force ourselves to think about them and age with them, especially in the context of a teaching museum at the Allen. So what I decided to do is I wrote a new label recontextualizing the piece, and there’s a comment book out for people to leave comments, because I’m still not sure if it was the right thing to do! I can justify my decision from a pedagogical standpoint and I hope to talk to as many people as possible about it, but I definitely am open to people saying, ‘No, you’re wrong, this wasn’t the right decision.’ I’ve been thinking a lot about museums and the #MeToo movement, but even separate from the #MeToo movement, just about how and if museums can show art by bad people.
+
+TG: Yeah, I mean that part of the exhibit really does strike you, especially along with the theme of fragility. And it really does make you think - and it’s good that you had the little footnote at the end that you wrote to address it - it sparks conversation and forces people to think about that issue.
+
+OF: That’s what I was aiming for, so I’m glad to hear that.
+
+TG: What are your plans for the future, once this year is over? 
+
+OF: That’s a good question - the short answer is, I don’t know! I don’t have anything lined up just yet. I did a talk about my show [on Tuesday] and have been putting all my energies into that and was like, ‘When it’s done I’ll think about my future,’ and now it’s done! But I hope to do museum education work. I want to be a museum educator. I previously worked at a children’s museum which was really fun, so when I was thinking about what I was going to do after graduation I was thinking about children’s education in museums. And after this job I’ve sort of widened my scope to education for people of all ages but using art in a museum space. But yeah, I don’t know. I have a few ideas. I’d love to keep working in an academic art museum because I loved working with college students here. It allows you to have some pretty high-level conversations about art, and I don’t pretend to know that much more than anyone else who comes into the museum but it’s cool to be able to have these conversations with students who are studying a bunch of different things. I think, more so than other museums, museum associated with universities or on college campuses bring people who are studying other things in a really in-depth way and you can make these fascinating connections that I think are a little harder to make in bigger museums or museums that aren’t connected with schools. But yeah - we’ll see!
 
