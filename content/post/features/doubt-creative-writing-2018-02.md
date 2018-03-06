@@ -5,7 +5,7 @@ formattedDate: "Feb 23, 2018"
 time: 4:50pm
 tags: []
 issueid: 2018-02
-draft: true
+draft: false
 featured: false
 # weight: 1 
 section: "Features"
@@ -13,9 +13,9 @@ sectionid: "features"
 header: "Students, Faculty Express Doubt Over Future Of Creative
 Writing Program"
 subheader: 
-header_image: "Sam Schuman CW2.jpg"
+header_image: "WRITING-SS.png"
 img_info: "Alison Bechdel, Oberlin alum and well known graphic novelist."
-contributor: nnobody
+contributor: sschuman
 ---
 
 “He just didn’t show up one day.” That’s how Lee Khoury said his friends learned that their creative writing professor Bernard Matambo had resigned last November following accusations of sexual misconduct towards students.  The popular professor’s sudden resignation came as a shock to many students and faculty, but it wasn’t the first time Khoury had been surprised by a departure in the department. 
