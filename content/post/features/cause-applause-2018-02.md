@@ -6,8 +6,8 @@ time: 4:51pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
-# weight: 1 
+featured: true
+# weight: 6 
 section: "Features"
 sectionid: "features"
 header: "Cause for Applause"
