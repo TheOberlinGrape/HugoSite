@@ -7,7 +7,7 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-# weight: 6 
+weight: 6 
 section: "Features"
 sectionid: "features"
 header: "Cause for Applause"
