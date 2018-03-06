@@ -6,7 +6,7 @@ time: 4:51pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
+featured: true
 # weight: 1 
 section: "Features"
 sectionid: "features"
