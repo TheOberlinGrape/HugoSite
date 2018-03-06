@@ -7,7 +7,7 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-# weight: 2 
+weight: 2 
 section: "Features"
 sectionid: "features"
 header: "Stand Up Against Gun Violence"
