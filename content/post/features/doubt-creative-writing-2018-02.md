@@ -6,8 +6,8 @@ time: 4:50pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
-# weight: 1 
+featured: true
+# weight: 3 
 section: "Features"
 sectionid: "features"
 header: "Students, Faculty Express Doubt Over Future Of Creative
