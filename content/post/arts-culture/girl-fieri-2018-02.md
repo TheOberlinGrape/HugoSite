@@ -10,7 +10,7 @@ featured: "true"
 weight: 1 
 section: "Arts&Culture"
 sectionid: "arts-culture"
-header: "Article 2: Too Many Articles? This is a long article title yo"
+header: "Article \"2\": Too Many Articles? This is a long article title yo"
 subheader: "The subheader, highlighting some tagline of the article"
 header_image: "test-photo.png"
 img_info: "This is a test description for the header info."
