@@ -7,7 +7,7 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-# weight: 4 
+weight: 4 
 section: "Features"
 sectionid: "features"
 header: "Major Car Accidents Around Oberlin Cause Distress"
