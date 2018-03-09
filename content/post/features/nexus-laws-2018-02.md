@@ -7,7 +7,7 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-weight: 1 
+# weight:  
 section: "Features"
 sectionid: "features"
 header: "NEXUS offers Oberlin City Council $100,000 to violate its own laws"
