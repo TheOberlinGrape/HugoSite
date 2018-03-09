@@ -6,8 +6,8 @@ time: 4:58pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
-# weight: 1 
+featured: true
+weight: 6 
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "New Freshman Dorm to Feature Solid Gold Bathrooms, Paper Towels"
