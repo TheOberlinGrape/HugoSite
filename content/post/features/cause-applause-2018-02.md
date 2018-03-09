@@ -6,14 +6,14 @@ time: 4:51pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 6 
+featured: false
+# weight: 
 section: "Features"
 sectionid: "features"
 header: "Cause for Applause"
 subheader: "With inaugural guest Khalid Taylor, Student Life Program Coordinator"
-header_image: "test-image.png"
-img_info: "This is a test description for the header info."
+# header_image: "test-image.png"
+# img_info: "This is a test description for the header info."
 contributor: lfortney
 ---
 
