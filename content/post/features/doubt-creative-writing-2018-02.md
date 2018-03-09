@@ -1,5 +1,5 @@
 ---
-title: "Doubt Creative Writing 2018 02"
+title: "The Oberlin Grape | Doubt in Creative Writing"
 date: 2018-02-23T16:50:36-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:50pm
