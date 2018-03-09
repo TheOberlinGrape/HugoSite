@@ -1,5 +1,5 @@
 ---
-title: "The Bachelor 2018 02"
+title: "The Grape | Bachelor of Oberlin"
 date: 2018-02-23T16:52:34-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:52pm
