@@ -5,9 +5,9 @@ formattedDate: "Feb 23, 2018"
 time: 4:56pm
 tags: []
 issueid: 2018-02
-draft: true
-featured: false
-# weight: 1 
+draft: false
+featured: true
+weight: 8 
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Security Notebook"
