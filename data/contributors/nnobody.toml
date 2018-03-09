@@ -1,14 +1,4 @@
-# Author data
-
-# Name of the author
-name = "Nemo Nobody"
-
-# Email
-social = "nnobody@theoberlingrape.com"
-
-# id
-id = "nnobody"
-
-# Picture name
-picture = "nnobody.png"
-
+name="Anonymous"
+social="do-not-reply@theoberlingrape.com"
+picture="nnobody.png"
+id="nnobody"

@@ -5,7 +5,7 @@ formattedDate: "Feb 23, 2018"
 time: 4:54pm
 tags: []
 issueid: 2018-02
-draft: true
+draft: false
 featured: false
 # weight: 1 
 section: "Opinions"
@@ -14,8 +14,9 @@ header: "When Did V-Day Become Me-Day?"
 subheader: "The subheader, highlighting some tagline of the article"
 header_image: "V-Day Comic.png"
 img_info: "Comic by Zoe Dyer"
-contributor: Sflorman
+contributor: sflorman
 ---
+
 	The realities of Valentine’s Day have long been disputed, and whether you are a true believer in love and the story of St. Valentine, or you’re a sucker for the cupid that was cultivated by mega corporations like Hallmark, it’s indisputable that the celebration of Valentine’s Day relies heavily upon material objects and the commercialization of love.
 In my former years, Valentine’s Day entailed waking up to chocolate and a handwritten note from my over-involved parents, and coming home with a bag full of lollipops and sweetarts from the entire third grade classroom. In High School, sex and dating changed the day, and the holiday was spent overindulging on heart shaped Reese’s cups, while avoiding my APUSH homework and mocking the happy couples that my friends and I weren’t a part of.
 Halfway through High School though, like all other conversations and social interactions, confessions of admiration and confirmations of love that were once expressed through expensive chocolate and roses moved onto social media platforms, more specifically, Instagram. Places like Instagram and Facebook cultivate a culture in which people we’ve met once, or have possibly never met at all, become spectators of our most intimate moments and privy to the inner workings of our relationships and lives, and the day of love is no exception. In fact, perhaps more than any other day of the year, I become acutely aware of just how many of my Instagram followers are seemingly fulfilled by their love life.

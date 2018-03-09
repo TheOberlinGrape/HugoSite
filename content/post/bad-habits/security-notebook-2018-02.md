@@ -1,18 +1,18 @@
 ---
-title: "Security Notebook 2018 02"
+title: "The Oberlin Grape | Security Notebook"
 date: 2018-02-23T16:56:06-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:56pm
 tags: []
 issueid: 2018-02
-draft: true
+draft: false
 featured: false
 # weight: 1 
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Security Notebook"
 subheader: "For the week of February 12 - February 18."
-header_image: ""
+# header_image: ""
 img_info: ""
 contributor: jhalm
 ---

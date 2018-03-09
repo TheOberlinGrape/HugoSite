@@ -1,5 +1,5 @@
 ---
-title: "Sex Talk 2018 02"
+title: "The Oberlin Grape | Sex Talk"
 date: 2018-02-23T16:51:05-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:51pm
@@ -12,8 +12,8 @@ section: "Features"
 sectionid: "features"
 header: "Sex Talks"
 subheader: "The Sensual Triad"
-header_image: ""
-img_info: ""
+# header_image: ""
+# img_info: ""
 contributor: avaaler
 ---
 
@@ -31,6 +31,6 @@ First thing’s first: sex can be a lot of different things to a lot of differen
 
 **Lubrication:** This part of the triad refers to any lubrication, whether it’s made by our bodies (pre-cum, vaginal mucus, cervical mucus) or synthetically made (water-based, silicone-based, or hybrid). Both types of lube help sex along by decreasing friction. This is especially important when pleasuring body parts with delicate tissue, like the genitals. When friction occurs without lubrication, tiny little cuts, called microtears, can form, causing pain and increasing one’s risk of STI transmission. Lube can also make sex last longer, if that’s what everyone’s down for!
 
-If you have any topic suggestions, email us at sic@oberlin.edu or visit us in Wilder 203. The SIC provides at-cost safer sex supplies, gender affirming products, peer support and comprehensive education to the Oberlin student body and broader community. Visit our facebook page @ facebook.com/oberlin.sic.
+If you have any topic suggestions, email us at sic@oberlin.edu or visit us in Wilder 203. The SIC provides at-cost safer sex supplies, gender affirming products, peer support and comprehensive education to the Oberlin student body and broader community. Visit our facebook page @ [facebook.com/oberlin.sic](facebook.com/oberlin.sic).
 
 *Contact contributing writer Angie Vaaler at avaaler@oberlin.edu.*

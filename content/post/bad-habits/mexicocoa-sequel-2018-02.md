@@ -1,5 +1,5 @@
 ---
-title: "Mexicocoa Sequel 2018 02"
+title: "The Oberlin Grape | Mexicocoa Sequel"
 date: 2018-02-23T16:55:27-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:55pm
@@ -12,7 +12,7 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Azariah’s Cafe To Sell New and Authentic “Spicy Mexicocoa”"
 subheader: ""
-header_image: ""
+#header_image: ""
 img_info: ""
 contributor: jcontrer
 ---

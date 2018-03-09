@@ -1,5 +1,5 @@
 ---
-title: "Gold Bathrooms 2018 02"
+title: "The Oberlin Grape | Gold Bathrooms"
 date: 2018-02-23T16:58:10-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:58pm
@@ -12,7 +12,7 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "New Freshman Dorm to Feature Solid Gold Bathrooms, Paper Towels"
 subheader: ""
-header_image: ""
+#header_image: ""
 img_info: ""
 contributor: nodenkir
 ---

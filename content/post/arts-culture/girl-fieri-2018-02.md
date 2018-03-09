@@ -1,20 +1,20 @@
 ---
-title: "Girl Fieri 2018 02"
+title: "The Oberlin Grape | Girl Fieri"
 date: 2018-02-23T16:52:50-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:52pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: "true"
+featured: true
 weight: 1 
 section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "Girl Fieri Reviews:"
 subheader: "Blue Sky"
-header_image: ""
-img_info: ""
-contributor: Anna Polacek
+# header_image:
+# img_info: 
+contributor: apolacek
 ---
 
 As Oberlin students, complaining about our food options can feel like a norm. Whether it’s the questionable looking meat at Dascomb, or the pretty average “pitza” at Aladdin’s, many of us are left craving some variety. Well, not to worry, my friends, a new food columnist is in town. I’ll be bringing you reviews of Oberlin’s overlooked food options so you can expand your culinary palate. This week I’ll be reviewing Blue Sky Restaurant, the Oberlin staple for when you’re craving an off campus burger. 

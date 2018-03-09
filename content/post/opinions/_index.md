@@ -1,5 +1,5 @@
 ---
-title: The Oberlin Grape | Features
+title: The Oberlin Grape | Opinions
 type: section
-sectionid: opinions
+sectionid: "opinions"
 ---

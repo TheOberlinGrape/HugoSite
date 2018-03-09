@@ -12,8 +12,8 @@ section: "Features"
 sectionid: "features"
 header: "Stand Up Against Gun Violence"
 subheader: "Tell Rob Portman to go fuck himself"
-header_image: ""
-img_info: ""
+#header_image: ""
+#img_info: ""
 contributor: indivisibleoberlin
 ---
 

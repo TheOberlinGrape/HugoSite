@@ -1,5 +1,5 @@
 ---
-title: "Oberlin Best Callege 2018 02"
+title: "The Oberlin Grape | Oberlin Best Callege"
 date: 2018-02-23T16:55:52-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:55pm
@@ -12,7 +12,7 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Oberlin Considered Best College in Oberlin, Study Finds"
 subheader: ""
-header_image: ""
+# header_image: ""
 img_info: ""
 contributor: bpovman
 ---

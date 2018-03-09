@@ -1,5 +1,5 @@
 ---
-title: "Wilder Memorium 2018 02"
+title: "The Oberlin Grape | Wilder Memorium"
 date: 2018-02-23T16:56:33-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:56pm
@@ -12,7 +12,7 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Wilder 110"
 subheader: "In Memoriam"
-header_image: ""
+#header_image: ""
 img_info: ""
 contributor: bpovman
 ---

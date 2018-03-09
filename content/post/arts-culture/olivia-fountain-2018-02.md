@@ -7,14 +7,14 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-# weight: 1 
+weight: 2 
 section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "Exploring Fragility"
 subheader: "with Olivia Fountain"
-header_image: "Olivia Fountain.jpeg"
+header_image: "Olivia Fountain.jpg"
 img_info: "Olivia Fountain in the Allen, courtesy of the Oberlin College Instagram page."
-contributor: Nell Beck
+contributor: nbeck
 ---
 After graduating last spring, Olivia Fountain (’17) has returned to Oberlin as the curatorial assistant in the Allen Museum’s Office of Academic Programs. “Handle With Care: Embracing Fragility” is a new exhibition in the Education Hallway that Fountain curated herself. 
 There are five contemporary pieces in the show, including Chuck Close’s Andres (Serrano), a photograph of Andres Serrano, the conceptual artist of Afro-Cuban and Honduran descent, Toni Catany’s Natura Morta, a composite photograph of a family portrait that obscures all of the male members, Racquelin Mendieta’s KalyAni, a collage focusing on a central silhouette, Marsha Brown’s Untitled (Male Nude), a photograph in which a gender-ambiguous youth poses behind a pane of glass, and Liliana Porter’s Brancusi, a photograph of a postcard of Constantin Brancusi’s Sculpture for the Blind with a glass bird. All explore concepts of fragility and its relationship to gender and race.

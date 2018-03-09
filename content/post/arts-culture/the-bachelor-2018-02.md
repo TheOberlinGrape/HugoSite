@@ -7,14 +7,14 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-# weight: 4 
+weight: 4 
 section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "The Bachelor of Oberlin"
 subheader: ""
 header_image: "The Bachelor of Oberlin.jpg"
 img_info: "Arie Luyendyk Jr., The Bachelor"
-contributor: PJ McCormick
+contributor: pmccormi
 ---
 The Bachelor of Oberlin is a new bi-weekly column re-capping the most recent episode of the Bachelor (and/or all Bachelor-adjacent properties ie: The Bachelorette, Bachelor in Paradise, The Bachelor Winter Games, etc.). Reactions to the episode of the week are captured in an informal round-table during a Bachelor screening.   
 

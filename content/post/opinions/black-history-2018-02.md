@@ -12,9 +12,9 @@ section: "Opinions"
 sectionid: "opinions"
 header: "Black History and Pain is Not #thuglife"
 subheader: "a look at Ratsy's \"master\"/\"slave\" instagram post"
-header_image: "Black History Ratsy's.jpg"
-img_info: "Image taken from Ratsy's Instagram"
-contributor: Gio C. Donovan
+#header_image: "Black History Ratsy's.jpg"
+#img_info: "Image taken from Ratsy's Instagram"
+contributor: gdonovan
 ---
 This month, Black people around the globe remember important people and events in the history of the African diaspora with Black History Month. Last week, on February 9th, Ratsy Jo Kemp (the owner of Ratsy’s Store) posted on her store’s Instagram a picture of two shirts for sale -- in bold black letters across white fabric, one read “Master” and the other “Slave” (The shirts were hanging at the center of the store, on the wall behind the cashier – practically under a spotlight. The post had a handful of hashtags, with some of the most concerning being: #valentinesgift, #loveislove, #beyourself, and (most importantly) #thuglife). Everyday, racist memorabilia and “collectables” depicting harmful messages, blackface, and stereotyped physical features sit in vintage and antique stores across the country. And like H&M’s colossal “coolest monkey in the jungle” sweatshirt, actions like these have a harmful impact–intended or not. And almost (if not equally) as harmful as stocking and selling these items, is refusing accountability for the impact and focusing on your own intention.
 
