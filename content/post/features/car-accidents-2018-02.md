@@ -1,5 +1,5 @@
 ---
-title: "Car Accidents 2018 02"
+title: "The Oberlin Grape | Car Accidents"
 date: 2018-02-23T16:50:56-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:50pm
