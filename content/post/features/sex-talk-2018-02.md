@@ -6,14 +6,14 @@ time: 4:51pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 5
+featured: false
+# weight:
 section: "Features"
 sectionid: "features"
 header: "Sex Talks"
 subheader: "The Sensual Triad"
-header_image: ""
-img_info: ""
+# header_image: 
+# img_info:
 contributor: avaaler
 ---
 
