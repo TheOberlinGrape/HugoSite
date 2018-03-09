@@ -40,63 +40,103 @@ To my folks: do not live in the chains of shame so that whiteness can sleep comf
 
 I have written two poems. The first being written in a moment of grief upon reading the news on Orlando Boldewijn, and remembering the countless Black lives that did not matter until they stopped breathing.
 
-**A Black Body Is…**
+"A Black Body Is…"
 
-*A Black body is a wind chime
-Limp and loose,
-hanging from a tree.
-The soft chimes a mournful cry from the spirit.
-They hang.
-Like chimes,
-Moving only by the push of the wind.
-Dangling there from wood.
+*A Black body is a wind chime*
 
-A Black body is a capsized boat
-Abandoned in wading waters
-Covered in seaweed and algae
-Reclaimed by the earth.
-Carried by waves until washed ashore
-It is viewed as nothing more than…
-Debris.
+*Limp and loose,*
 
-A Black body is born a cadaver
-Never becoming acquainted with life.
+*hanging from a tree.*
 
-A Black body is Death’s favorite song.
-With verses written in blood
-The melody our collective cry.
-The lyrics of our corpses,
-On repeat.*
+*The soft chimes a mournful cry from the spirit.*
+
+*They hang.*
+
+*Like chimes,*
+
+*Moving only by the push of the wind.*
+
+*Dangling there from wood.*
+
+
+*A Black body is a capsized boat*
+
+*Abandoned in wading waters*
+
+*Covered in seaweed and algae*
+
+*Reclaimed by the earth.*
+
+*Carried by waves until washed ashore*
+
+*It is viewed as nothing more than…*
+
+*Debris.
+
+
+*A Black body is born a cadaver*
+
+*Never becoming acquainted with life.*
+
+
+*A Black body is Death’s favorite song.*
+
+*With verses written in blood*
+
+*The melody our collective cry.*
+
+*The lyrics of our corpses,*
+
+*On repeat.*
 
 The second is about Black beauty. While this poem was written about a specific individual, I encourage every Black body recognize their beauty.
 
-**Beautiful Black Boy**
+"Beautiful Black Boy"
 
-*Dear beautiful Black boy,
+*Dear beautiful Black boy,*
 
-I see heaven in your eyes.
-Angels sing in harmonious chorus in your irises.
-I see mountains sprouting from your scalp,
-Did you know you were the embodiment of earth?
 
-Beautiful Black boy your voice is rough,
-Do you carry your past in the thick tendons of your vocal cords?
-I don’t know your past,
-But I see your future
-In the horizon of your smile -
-Your laughter is the sunrise
-Seeping the nectarine hue of possibility
-In the break of dawn.
+*I see heaven in your eyes.*
 
-Beautiful Black boy I can tell you are descended from royalty
-Gold fits onto you so perfectly,
-Looping into your flesh,
-A metaphor for infinity I don’t quite understand.
+*Angels sing in harmonious chorus in your irises.*
 
-I want to fall into the daybreak of your mouth,
-Taste your sunshine
-And trace your past through your tongue.
-Black boy, you are beautiful.*
+*I see mountains sprouting from your scalp,*
+
+*Did you know you were the embodiment of earth?*
+
+
+*Beautiful Black boy your voice is rough,*
+
+*Do you carry your past in the thick tendons of your vocal cords?*
+
+*I don’t know your past,*
+
+*But I see your future*
+
+*In the horizon of your smile -*
+
+*Your laughter is the sunrise*
+
+*Seeping the nectarine hue of possibility*
+
+*In the break of dawn.*
+
+
+*Beautiful Black boy I can tell you are descended from royalty*
+
+*Gold fits onto you so perfectly,*
+
+*Looping into your flesh,*
+
+*A metaphor for infinity I don’t quite understand.*
+
+*I want to fall into the daybreak of your mouth,*
+
+*Taste your sunshine*
+
+*And trace your past through your tongue.*
+
+*Black boy, you are beautiful.*
 
 
 Black is beautiful.
