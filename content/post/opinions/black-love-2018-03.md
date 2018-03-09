@@ -25,6 +25,8 @@ I also think it is about damn time you stop saying you are “intimidated” by 
 
 When I think about self-love in the context of Blackness, I often think about Maya Angelou’s poem, “Still I Rise,” especially when it comes to dating as a gay Black man on Oberlin’s campus. This stanza in particular is my favorite:
 
+
+
 *Does my sexiness upset you?*
 
 *Does it come as a surprise*
@@ -32,6 +34,8 @@ When I think about self-love in the context of Blackness, I often think about Ma
 *That I dance like I’ve got diamonds*
 
 *At the meeting of my thighs?*
+
+
 
 Reading the poem in its entirety, it is not difficult to understand that Angelou is writing about the perseverance of self-love in a Black body. It is no easy task, especially when those around us try so hard to squander our joy with bitter racism. Toxic animosity brews deep within those who would rather see Black bodies hunched over, bearing the weight of insecurity and self-hatred on our shoulders. Our bodies are fetishized. Black submission has always been the kink of white supremacy.
 To my folks: do not live in the chains of shame so that whiteness can sleep comfortably in mediocrity. If they are pressed against the walls by your confidence, if they cannot breathe because the love you have for yourself is sucking up all the air in the room, remember that it is seldom that our people can breathe. Eric Garner is no longer breathing. Sandra Bland is no longer breathing. Philando Castile is no longer breathing. Tamir Rice. Trayvon Martin. Marsha P. Johnson. Emmett Till. Orlando Boldewijn... Our love for ourselves is not about ego. It is about life. If we do not love ourselves then who will? Black love, whether it be for ourselves or for one another, is necessary. Black love is revolutionary.
@@ -41,6 +45,7 @@ To my folks: do not live in the chains of shame so that whiteness can sleep comf
 I have written two poems. The first being written in a moment of grief upon reading the news on Orlando Boldewijn, and remembering the countless Black lives that did not matter until they stopped breathing.
 
 "A Black Body Is…"
+
 
 *A Black body is a wind chime*
 
@@ -71,7 +76,7 @@ I have written two poems. The first being written in a moment of grief upon read
 
 *It is viewed as nothing more than…*
 
-*Debris.
+*Debris.*
 
 
 *A Black body is born a cadaver*
