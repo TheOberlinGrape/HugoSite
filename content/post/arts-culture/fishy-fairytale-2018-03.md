@@ -10,7 +10,7 @@ featured: true
 weight: 1 
 section: "Arts&Culture"
 sectionid: "arts-culture"
-header: "Fishy Fairytale Wins Best Pictur"
+header: "Fishy Fairytale Wins Best Picture"
 subheader: "A catalog of political flubs at the Oscars"
 header_image: ""
 img_info: ""
