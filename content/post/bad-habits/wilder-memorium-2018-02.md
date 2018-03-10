@@ -1,19 +1,19 @@
 ---
-title: "Wilder Memorium 2018 02"
+title: "The Grape | Wilder 110: In Memoriam"
 date: 2018-02-23T16:56:33-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:56pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 2 
+featured: false
+# weight: 
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Wilder 110"
 subheader: "In Memoriam"
-header_image: ""
-img_info: ""
+# header_image:
+# img_info: 
 contributor: bpovman
 ---
 
