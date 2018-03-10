@@ -1,19 +1,19 @@
 ---
-title: "Mexicocoa Sequel 2018 02"
+title: "The Grape | Mexicocoa Sequel"
 date: 2018-02-23T16:55:27-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:55pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 1 
+featured: false
+# weight:
 section: "Bad Habits"
 sectionid: "bad-habits"
-header: "Azariah’s Cafe To Sell New and Authentic “Spicy Mexicocoa”"
-subheader: ""
-header_image: ""
-img_info: ""
+header: "Azariah’s Cafe To Sell New and Authentic \“Spicy Mexicocoa\”"
+# subheader:
+# header_image:
+# img_info: ""
 contributor: jcontrer
 ---
 
