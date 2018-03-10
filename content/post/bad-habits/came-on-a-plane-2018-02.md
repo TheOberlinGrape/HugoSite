@@ -1,19 +1,19 @@
 ---
-title: "Came Plane 2018 02"
-date: 2018-02-23T16:57:39-05:00
+title: "The Grape | A Dip in Cracker Lake"
+date: 2018-03-09T16:57:39-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:57pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 4
+featured: false
+# weight:
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "I Came on a Plane"
 subheader: "A Dip in Cracker Lake: POC and their Hook-Ups with yt People"
-header_image: ""
-img_info: ""
+# header_image:
+# img_info:
 contributor: anonymous
 ---
 
