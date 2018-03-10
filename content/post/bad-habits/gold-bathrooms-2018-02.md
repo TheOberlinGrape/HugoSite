@@ -1,19 +1,19 @@
 ---
-title: "Gold Bathrooms 2018 02"
+title: "The Grape | New Freshman Dorm"
 date: 2018-02-23T16:58:10-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:58pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 6 
+featured: false
+# weight:
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "New Freshman Dorm to Feature Solid Gold Bathrooms, Paper Towels"
-subheader: ""
-header_image: ""
-img_info: ""
+# subheader:
+# header_image:
+# img_info:
 contributor: nodenkir
 ---
 
