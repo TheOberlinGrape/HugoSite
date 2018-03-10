@@ -2,7 +2,7 @@
 title: "The Grape | Goodwill Fraud"
 date: 2018-02-23T16:57:25-05:00
 formattedDate: "Feb 23, 2018"
-time: 4:57pm
+time: 4:58pm
 tags: []
 issueid: 2018-02
 draft: false
