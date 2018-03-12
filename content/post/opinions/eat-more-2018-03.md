@@ -12,7 +12,7 @@ section: "Opinions"
 sectionid: "opinions"
 header: "Eat More, Pay Less"
 # subheader:
-header_image:
+header_image: eat more pay less.jpg
 img_info:
 contributor: mgump
 ---
