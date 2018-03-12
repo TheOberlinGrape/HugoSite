@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Nexus Laws"
+=======
+title: "The Grape | Nexus Laws"
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 date: 2018-02-23T16:51:20-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:51pm
@@ -7,7 +11,7 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-weight: 1 
+# weight:  
 section: "Features"
 sectionid: "features"
 header: "NEXUS offers Oberlin City Council $100,000 to violate its own laws"

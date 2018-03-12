@@ -1,5 +1,5 @@
 ---
-title: "Doubt Creative Writing 2018 02"
+title: "The Grape | Doubt in Creative Writing"
 date: 2018-02-23T16:50:36-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:50pm
@@ -7,7 +7,7 @@ tags: []
 issueid: 2018-02
 draft: false
 featured: true
-weight: 3 
+# weight: 
 section: "Features"
 sectionid: "features"
 header: "Students, Faculty Express Doubt Over Future Of Creative

@@ -1,20 +1,30 @@
 ---
+<<<<<<< HEAD:content/post/bad-habits/came-plane-2018-02.md
 title: "The Oberlin Grape | I Came on a Plane"
+=======
+title: "The Grape | A Dip in Cracker Lake"
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3:content/post/bad-habits/came-on-a-plane-2018-02.md
 date: 2018-02-23T16:57:39-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:57pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 4
+featured: false
+# weight:
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "I Came on a Plane"
 subheader: "A Dip in Cracker Lake: POC and their Hook-Ups with yt People"
+<<<<<<< HEAD:content/post/bad-habits/came-plane-2018-02.md
 #header_image: ""
 img_info: ""
 contributor: nnobody
+=======
+# header_image:
+# img_info:
+contributor: anonymous
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3:content/post/bad-habits/came-on-a-plane-2018-02.md
 ---
 
 I navigate my life on to do lists. Wake up, eat, sit down, eat, stand up, eat, pass out, eat… you get the picture. What I don’t account for in my life is the effects of alcohol. I recently took a journey on an international plane. If there’s one thing to know about international flights, it’s that they serve complimentary liquid courage (tequila, vodka, rum, it all works the same for me). So I started drinking, and as a result, got friendly with my seat partner, a 21-year-old interrogator named Chad (maybe Brad?) that worked for the US military. 

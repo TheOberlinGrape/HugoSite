@@ -1,19 +1,28 @@
 ---
+<<<<<<< HEAD
 title: "The Oberlin Grape | Sex Talk"
+=======
+title: "The Grape | Sex Talk"
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 date: 2018-02-23T16:51:05-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:51pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 5
+featured: false
+# weight:
 section: "Features"
 sectionid: "features"
 header: "Sex Talks"
 subheader: "The Sensual Triad"
+<<<<<<< HEAD
 # header_image: ""
 # img_info: ""
+=======
+# header_image: 
+# img_info:
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 contributor: avaaler
 ---
 

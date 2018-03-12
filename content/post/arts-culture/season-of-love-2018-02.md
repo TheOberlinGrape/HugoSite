@@ -1,5 +1,5 @@
 ---
-title: "Season of Love 2018 02"
+title: "The Grape | Season of Love"
 date: 2018-02-23T16:52:21-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:52pm

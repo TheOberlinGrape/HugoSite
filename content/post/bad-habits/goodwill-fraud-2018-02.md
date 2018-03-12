@@ -1,13 +1,17 @@
 ---
+<<<<<<< HEAD
 title: "The Oberlin Grape | Goodwill Fraud"
+=======
+title: "The Grape | Goodwill Fraud"
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 date: 2018-02-23T16:57:25-05:00
 formattedDate: "Feb 23, 2018"
-time: 4:57pm
+time: 4:58pm
 tags: []
 issueid: 2018-02
-draft: true
-featured: true
-weight: 7
+draft: false
+featured: false
+# weight:
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Ill Will"

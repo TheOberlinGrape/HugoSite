@@ -6,14 +6,19 @@ time: 4:49pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 2 
+featured: false
+# weight:  
 section: "Features"
 sectionid: "features"
 header: "Stand Up Against Gun Violence"
 subheader: "Tell Rob Portman to go fuck himself"
+<<<<<<< HEAD
 #header_image: ""
 #img_info: ""
+=======
+# header_image:
+# img_info:
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 contributor: indivisibleoberlin
 ---
 

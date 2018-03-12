@@ -1,13 +1,13 @@
 ---
-title: "Car Accidents 2018 02"
+title: "The Grape | Car Accidents"
 date: 2018-02-23T16:50:56-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:50pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 4 
+featured: false
+# weight:
 section: "Features"
 sectionid: "features"
 header: "Major Car Accidents Around Oberlin Cause Distress"

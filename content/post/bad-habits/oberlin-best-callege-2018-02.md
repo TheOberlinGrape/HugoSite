@@ -1,19 +1,29 @@
 ---
+<<<<<<< HEAD
 title: "The Oberlin Grape | Oberlin Best Callege"
+=======
+title: "The Grape | Oberlin Best College in Oberlin"
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 date: 2018-02-23T16:55:52-05:00
 formattedDate: "Feb 23, 2018"
 time: 4:55pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 5
+featured: false
+# weight: 
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Oberlin Considered Best College in Oberlin, Study Finds"
+<<<<<<< HEAD
 subheader: ""
 # header_image: ""
 img_info: ""
+=======
+# subheader:
+# header_image:
+# img_info:
+>>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 contributor: bpovman
 ---
 
