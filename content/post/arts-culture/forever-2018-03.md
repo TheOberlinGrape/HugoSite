@@ -12,7 +12,7 @@ section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "Do You Really Want to Live Forever… forever… forever"
 # subheader:
-header_image:
+header_image: Doyou really wanna live forever.jpg
 img_info: Cryogenically frozen chincillas in a liquid nitrogen tank. Collage by Charlotte Kropf.
 contributor: ckropf
 ---
