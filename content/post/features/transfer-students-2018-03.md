@@ -12,8 +12,8 @@ section: "Features"
 sectionid: "features"
 header: "What's in a Transfer?"
 subheader: "Why Students Are Choosing to Leave—or Come to—Oberlin as Enrollment Challenges Persist"
-# header_image:
-# img_info:
+# header_image: what's-in-a-transger.jpg
+# img_info:PRESIDENT AMBAR PRESENTS ON COLLEGE’S FINANCES, PHOTO BY JAKE BERSTEIN
 contributor: sschuman
 ---
 
