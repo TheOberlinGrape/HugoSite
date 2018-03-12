@@ -72,7 +72,11 @@ feelings less honestly. Poetry is about life, and sometimes life is as simple as
 looks eating a grapefruit. You don’t have to describe it as anything more or less than what it is
 — at least that’s my interpretation.
 
-Elizabeth ‘07 was the final poet to read. She introduced her poem by saying that climate change has been a huge impetus for her newer poetry. This one is about how the Manifest Destiny mindset of American pioneers has materialized itself as environmental destruction. The poem is titled after a region of Mars that looks like the American West-- analogizing Westward expansion to Spaceward exploration. Our own carbon dates us. If I could cut myself open, you’d see rings
+Elizabeth ‘07 was the final poet to read. She introduced her poem by saying that climate change has been a huge impetus for her newer poetry. This one is about how the Manifest Destiny mindset of American pioneers has materialized itself as environmental destruction. The poem is titled after a region of Mars that looks like the American West-- analogizing Westward expansion to Spaceward exploration: 
+
+Our own carbon dates us. 
+
+If I could cut myself open, you’d see rings
 
 lapping more rings: my mother
 
