@@ -12,8 +12,10 @@ section: "Features"
 sectionid: "features"
 header: "Remaining Awake"
 subheader: "A History of Oberlin Activism"
-#header_image: ""
-#img_info: ""
+header_image: "remaining-awake.jpeg"
+img_info: "REV. DR. MARTIN LUTHER KING, JR GIVES COMMENCEMENT
+ADDRESS FOR OBERLIN COLLEGE. PHOTO COURTESY OF THE
+OBERLIN COLLEGE ARCHIVES"
 contributor: espear
 ---
 

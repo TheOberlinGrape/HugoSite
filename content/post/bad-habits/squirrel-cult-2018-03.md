@@ -12,8 +12,8 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Tappan Square Squirrel Cult Emerges From the Shadows"
 subheader: "Demands Organizing Rights"
-#header_image:
-#img_info:
+header_image: tappan-square.jpg
+img_info:
 contributor: sschuman
 ---
 Tappan Square—College-staff relations got a bit nutty Saturday, as a group of squirrels arranged in the shape of a pentagram demanded that Oberlin College recognize them as a professional association.

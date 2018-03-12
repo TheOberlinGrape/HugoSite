@@ -12,11 +12,7 @@ section: "Features"
 sectionid: "features"
 header: "Cause for Applause"
 subheader: "With inaugural guest Khalid Taylor, Student Life Program Coordinator"
-<<<<<<< HEAD
 # header_image: 
-=======
-# header_image: "test-image.png"
->>>>>>> 16fb3e7aeec570a42ce5ea6ca60d590f829220b3
 # img_info: "This is a test description for the header info."
 contributor: lfortney
 ---

@@ -12,7 +12,7 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "The Oberlin Budget Crisis"
 subheader: "Thinking Outside the Box"
-# header_image:
+# header_image: budget crisis.jpg
 # img_info:
 contributor: ifeather
 ---

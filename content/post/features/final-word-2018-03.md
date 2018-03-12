@@ -12,8 +12,8 @@ section: "Features"
 sectionid: "features"
 header: "A Final Word with Linda Iroff"
 subheader: "How Oberlin’s former director of the Tech Department splits her time between “Middle Earth” and the Midwest"
-# header_image:
-# img_info: 
+header_image: a-final-word.jpg
+img_info: 
 contributor: mpeterson
 ---
 
