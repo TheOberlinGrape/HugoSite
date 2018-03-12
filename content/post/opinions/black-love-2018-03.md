@@ -12,7 +12,7 @@ section: "Opinions"
 sectionid: "opinions"
 header: "Black Love (For Self)"
 # subheader:
-header_image:
+header_image: Black Love.jpg
 img_info:
 contributor: bsmith
 ---
