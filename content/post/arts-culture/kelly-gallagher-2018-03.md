@@ -12,7 +12,7 @@ section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "Experimental Filmmaker Kelly Gallagher Visits Oberlin "
 # subheader: 
-# header_image: A Final Word.jpg
+# header_image:
 # img_info:
 contributor: lkaminsk
 ---
