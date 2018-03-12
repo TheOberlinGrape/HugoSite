@@ -6,8 +6,8 @@ time: 4:57pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
-# weight: 1 
+featured: true
+weight: 4
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "I Came on a Plane"

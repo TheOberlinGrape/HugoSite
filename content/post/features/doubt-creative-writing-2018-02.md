@@ -6,14 +6,14 @@ time: 4:50pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
-# weight: 1 
+featured: true
+weight: 3 
 section: "Features"
 sectionid: "features"
 header: "Students, Faculty Express Doubt Over Future Of Creative
 Writing Program"
 subheader: 
-header_image: "WRITING-SS.png"
+header_image: "Writing SS.jpg"
 img_info: "Alison Bechdel, Oberlin alum and well known graphic novelist."
 contributor: sschuman
 ---

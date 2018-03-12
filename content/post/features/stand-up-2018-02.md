@@ -6,8 +6,8 @@ time: 4:49pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
-# weight: 1 
+featured: true
+weight: 2 
 section: "Features"
 sectionid: "features"
 header: "Stand Up Against Gun Violence"

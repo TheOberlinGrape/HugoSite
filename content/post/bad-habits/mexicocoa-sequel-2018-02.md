@@ -6,8 +6,8 @@ time: 4:55pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: false
-# weight: 1 
+featured: true
+weight: 1 
 section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Azariah’s Cafe To Sell New and Authentic “Spicy Mexicocoa”"
