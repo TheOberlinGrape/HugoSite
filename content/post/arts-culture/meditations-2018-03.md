@@ -21,8 +21,11 @@ Adam Gianelli ‘01 speaks with a stutter, which became evident when he read the
 
 
 alone in my room I can
+
 speak any word
+
 since I can’t say *memory* I say
+
 *underbloom*
 
 What Gianelli can’t physically say gives way to what he means; it’s almost as if his speech impediment pushes way towards a more authentic representation of what he’s trying to communicate. Adam says this on the intersection of poetry and stutter:
@@ -61,7 +64,7 @@ I should have come to you a suppliant,
 
 silent, citrus in hand.
 
-- *Meditation*, 2013
+(From *Meditation*, 2013)
 
 I feel like Lauren is hinting at the greater significance of poetry here. It’s sort of like *ars
 poetica*; maybe they’re saying: fuck anyone who silences you, who pressures you to express your
@@ -85,7 +88,7 @@ But for now, I remain
 
 human.
 
-- *Arcadia, Mars*, 2015
+(From *Arcadia, Mars*, 2015)
 
 During the Q&amp;A , Lindsey admitted that before publishing her book, she had these ideas about how poetry would “change the culture” and make people think about climate change, but that when it was published, she realized that only a couple of people actually read poetry books. Although this was disheartening to hear, I’m not entirely sure I believe it. The room she was speaking to was packed with young people eager to hear what others had written, eager to see what could be in their own future. Lindsey’s poems make me feel less alone when dealing with the psychological taxations of climate change, and that’s all I can really ask for.
 
