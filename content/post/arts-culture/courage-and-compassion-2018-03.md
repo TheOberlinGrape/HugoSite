@@ -6,7 +6,6 @@ time: 7:06pm
 tags: []
 issueid: 2018-03
 draft: false
-frontpage: "subfeature"
 featured: true
 weight: 2 
 section: "Arts&Culture"

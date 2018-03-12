@@ -6,8 +6,8 @@ time: 4:52pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 4 
+featured: false
+# weight:  
 section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "The Bachelor of Oberlin"

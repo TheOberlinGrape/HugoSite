@@ -1,21 +1,22 @@
 ---
 title: "The Grape | Activism and Athletics"
-date: 2018-03-23T16:54:18-05:00
-formattedDate: "March 9, 2018"
-time: 6:47pm
+date: 2018-03-12T17:30:23-04:00
+formattedDate: "Mar 12, 2018"
+time: 5:30pm
 tags: []
 issueid: 2018-03
 draft: false
 featured: true
-weight: 2
+weight: 2 
 section: "Opinions"
 sectionid: "opinions"
 header: "Activism and Athletics, Discourse and Sports"
-# subheader: 
-# header_image:
-# img_info:
+# subheader: "The subheader, highlighting some tagline of the article"
+# header_image: 
+img_info: "This is a test description for the header info."
 contributor: bcabral
 ---
+
 
 Divisions exist across campus that create binaries, and one of them is the athlete/non-athlete binary that other Oberlin students have previously written about. I noticed the social divide between athletics and activism since my first-year at Oberlin in 2014 when I occupied spaces of protest and no athletes were present, and when I attended varsity games that my activist friend group never attended. I, then, come to this opinion on activism and athletics as a club sport athlete, student leader activist, and devoted fan of varsity athletics. 
 
@@ -28,3 +29,4 @@ I hear the concerns voiced by Oberlin students who do not play varsity sports an
 This short opinion piece is inspired by a second-year student at Oberlin who after the panel mentioned that I was in a position to express my opinion on the highly contested divide between athletics and the rest of the college campus. Thank you. Let these conversations continue.
 
 *Contact contributing writer Brian Cabral at bcabral@oberlin.edu.*
+

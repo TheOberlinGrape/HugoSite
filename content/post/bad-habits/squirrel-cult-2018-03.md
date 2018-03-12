@@ -12,7 +12,7 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "Tappan Square Squirrel Cult Emerges From the Shadows"
 subheader: "Demands Organizing Rights"
-header_image: tappan-square.jpg
+header_image: "Tappan Square.jpg"
 img_info:
 contributor: sschuman
 ---

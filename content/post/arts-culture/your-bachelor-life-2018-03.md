@@ -13,7 +13,7 @@ sectionid: "arts-culture"
 header: "The Bachelor of Oberlin"
 subheader: "How to fully live Your Bachelor Life"
 header_image: "bachelor.jpg"
-img_info:
+# img_info:
 contributor: pmccormi
 ---
 

@@ -6,9 +6,8 @@ time: 4:53pm
 tags: []
 issueid: 2018-02
 draft: false
-#frontpage: "feature"
-featured: true
-weight: 2 
+featured: false
+# weight: 
 section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "Exploring Fragility"

@@ -12,7 +12,7 @@ section: "Opinions"
 sectionid: "opinions"
 header: "Black History and Pain is Not #thuglife"
 subheader: "a look at Ratsy's \"master\"/\"slave\" instagram post"
-header_image: "Black History Ratsy's.jpg"
+header_image: "Ratsy's.jpg"
 img_info: "Image taken from Ratsy's Instagram"
 contributor: gdonovan
 ---

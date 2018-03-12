@@ -5,6 +5,7 @@ formattedDate: "March 9, 2018"
 time: 6:03pm
 tags: []
 issueid: 2018-03
+frontpage: "feature"
 draft: false
 featured: true
 weight: 3 
@@ -12,7 +13,7 @@ section: "Features"
 sectionid: "features"
 header: "Remaining Awake"
 subheader: "A History of Oberlin Activism"
-header_image: "remaining-awake.jpeg"
+header_image: "Remaining Awake.jpeg"
 img_info: "REV. DR. MARTIN LUTHER KING, JR GIVES COMMENCEMENT
 ADDRESS FOR OBERLIN COLLEGE. PHOTO COURTESY OF THE
 OBERLIN COLLEGE ARCHIVES"

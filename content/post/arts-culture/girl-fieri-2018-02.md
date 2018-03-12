@@ -6,8 +6,8 @@ time: 4:52pm
 tags: []
 issueid: 2018-02
 draft: false
-featured: true
-weight: 1 
+featured: false
+# weight: 0 
 section: "Arts&Culture"
 sectionid: "arts-culture"
 header: "Girl Fieri Reviews:"
