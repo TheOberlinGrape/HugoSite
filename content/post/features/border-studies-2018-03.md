@@ -12,8 +12,8 @@ section: "Features"
 sectionid: "features"
 header: "Learning In and Out the Classroom"
 subheader: "A look Inside The Border Studies Program"
-header_image: "test-image.png"
-img_info: "This is a test description for the header info."
+header_image: "border-studies.jpg"
+img_info: "A SCENE FROM THE PROTEST AT THE U.S.-MEXICO BORDER ORGANIZED BY SCHOOL OF THE AMERICAS WATCH IN 2016. MANY BORDER STUDIES STUDENTS PARTICIPATED IN A PUPPET SHOW PUT ON BY THE BREAD AND PUPPET THEATRE, CELEBRATING SOLIDARITY WITH MIGRANTS AND REFUGEES ON BOTH SIDES OF THE BORDER WALL IN NOGALES, ARIZONA AND NOGALES, SONORA. PICTURE PROVIDED BY ALIZAH SIMON."
 contributor: mhanuka 
 ---
 
