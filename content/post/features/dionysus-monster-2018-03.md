@@ -12,7 +12,7 @@ section: "Features"
 sectionid: "features"
 header: "Dionysus’ Monster"
 subheader: "Reanimating Splitchers and the 'Sco"
-header_image: "test-image.png"
+header_image: "dionysus'-monster.jpg"
 img_info: "This is a test description for the header info."
 contributor: mrabot
 ---
