@@ -12,7 +12,7 @@ section: "Bad Habits"
 sectionid: "bad-habits"
 header: "My Top Four Marvin Krislov Dreams"
 subheader: "In Order of How Much Hair He Had"
-header_image:
+header_image: Marvin Krislov Dream.jpg
 img_info:
 contributor: lfrank
 ---
